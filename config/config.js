@@ -19,7 +19,7 @@ Config.whitelist = [
 // address bar is `Config.routes.client`.
 Config.defaultserver = {
 	id: 'dragonheaven',
-	host: 'http://localhost:8000',
+	host: 'albatross-testing-server.herokuapp.com',
 	port: 443,
 	httpport: 8000,
 	altport: 80,
